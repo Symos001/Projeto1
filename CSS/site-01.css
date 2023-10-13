@@ -1,11 +1,19 @@
+body{
+  background-color: rgb(255, 255, 255);
+
+}
+
 
 h1{
-    font-family:Arial; 
-  
-    font-size:10pt;
-    
-    color: blue;
-  } 
+  font-family:'Times New Roman', Times, serif; 
+  font-size: 50pt; 
+  color: rgb(242, 99, 255);
+} 
 
-
+button{
+  background-color: aliceblue;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 10pt;
+  color:rgb(242, 99, 255);
+}
 
